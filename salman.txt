@@ -1,0 +1,137 @@
+:::::Folder:::::
+gRPC:
+/data/cmdadmin/nemo_docker_files/nemo/test_multithreading/call_hold_test/CallHoldDetection/grpc
+
+Docker:
+/data/docker_images
+
+Code files:
+/data/cmdadmin/nemo_docker_files/nemo/test_multithreading/call_hold_test/CallHoldDetection/call_manager/call_manager/core
+
+Nginx:
+/etc/nginx
+
+Home:
+/home/cmdadmin
+
+
+:::::Terminal 1:::::
+RTP:
+run_rtp_server
+
+Django:
+start_dialer_docker
+goto_manager
+cd call_manager/
+python3 manage.py runserver 0:8000
+
+Flask:
+run_dialer_shell
+goto_manager && source env_call_manager/bin/activate
+cd call_manager/core
+python3 api.py
+
+gRPC:
+run_dialer_shell
+goto_manager
+cd ..
+python3 grpc/greeter_server_1.py
+
+Celery Worker:
+run_dialer_shell
+goto_manager && start_w1
+
+
+:::::Terminal 2:::::
+watch -n 2 nvidia-smi
+
+nvidia-smi
+
+cd /home/cmdadmin/
+python3 fetch_rcm_worklist.py
+
+htop
+
+
+:::::Terminal 3:::::
+Nginx:
+sudo su
+cd /etc/nginx
+sudo nano nginx.conf
+
+Nginx Status
+sudo nginx -t
+service nginx restart
+service nginx status
+
+tail -20 /var/log/nginx/error.log
+tail -20 /var/log/nginx/access.log
+
+Stop Docker:
+sudo docker stop elegant_solomon
+
+Status Docker:
+sudo systemctl status docker
+
+Restart Docker:
+sudo systemctl restart docker
+netstat -lntu
+
+Check Docker:
+sudo docker ps
+sudo docker images
+
+Inside Docker Conf:
+cd /var/lib/docker/containers/f52ddc76b89c03591bb3ff721c19899aaeb5f445ef6346a59f70caa7d84a484c/
+nano hostconfig.json
+
+cd /var/lib/docker/containers/f52ddc76b89c03591bb3ff721c19899aaeb5f445ef6346a59f70caa7d84a484c/
+nano config.v2.json
+
+Ports:
+sudo netstat -tulnp | grep "5005"
+
+
+::::::::::Dial Plan issue & code files::::::::::
+/data/cmdadmin/nemo_docker_files/nemo/test_multithreading/call_hold_test/CallHoldDetection/call_manager/call_manager/core
+
+dial_plan2.json
+insurance_bag_of_words.json
+dial_plans_flashtext.json
+common_dial_plan_flashtext.json
+api.py
+asterisk_endpoints.py
+config.py
+async_hold_servc.py
+load_flashtext.py
+
+/data/cmdadmin/nemo_docker_files/nemo/test_multithreading/call_hold_test/CallHoldDetection/flashtext_matching
+
+flashtext_matching.py
+flashtext_list_operator.txt
+flashtext_list_ivr.txt
+
+/data/cmdadmin/nemo_docker_files/nemo/test_multithreading/call_hold_test/CallHoldDetection/grpc
+
+greeter_server_1.py
+
+/data/cmdadmin/nemo_docker_files/nemo/test_multithreading/call_hold_test/CallHoldDetection/audio_streaming
+
+rtp_server.py
+
+
+::::::::::::update grPC code::::::
+Command to update pb2.py && pb2_greeter.py files
+python3 -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. helloworld.proto
+
+
+:::::Make Docker Image and Container:::::
+sudo docker build -t smart_dialer_grpc_image .
+sudo docker run -d -p 50051:50051 -p 50052:50052 --gpus all smart_dialer_grpc_image
+sudo docker ps
+sudo docker exec -it "container_id" bash  //container_id = id of image
+sudo docker stop "container_id"
+
+
+:::::::::::::::::::::::::::
+, device='cuda:0'

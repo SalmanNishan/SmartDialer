@@ -1,0 +1,1665 @@
+{  
+    "UNITED HEALTH CARE": {
+        "UnitedRepresentative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Tax": {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "United_Reference": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "NO", 
+            "callback": "send_audio_words"
+        }
+    },
+    
+    "UHC COMMUNITY" : {
+        "UnitedRepresentative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Tax": {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "United_Reference": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "NO", 
+            "callback": "send_audio_words"
+        }
+    },
+    
+    "UHC STUDENT RESOURCES": {
+        "UnitedRepresentative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Tax": {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "United_Reference": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "NO", 
+            "callback": "send_audio_words"
+        }
+    },
+    
+    "CIGNA": {
+        "Cigna_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Tax": {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Cigna_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": [["[ABC]", "2"], ["[DEF]", "3"], ["[GHI]", "4"], ["[JKL]", "5"], ["[MNO]", "6"], ["[PQRS]", "7"], ["[TUV]", "8"], ["[WXYZ]", "9"]]}, 
+            "sending_data": "", 
+            "callback": "send_audio_words"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Cigna_Medical": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "DOS": {
+            "excel": {"key": "DOS", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Cigna_Info": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        },
+        "Cigna_Multiple_Patients": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HORIZON NJ HEALTH": {
+        "Horizon_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Horizon_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "AMBETTER" : {
+    	"Ambetter_English" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Ambetter_Provider" :{
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Ambetter_Claims" :{
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Ambetter_NPI_Ready" :{
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct" :{
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Ambetter_Claim_Type" :{
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Ambetter_Claim_Search" :{
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HUMANA": {
+        "Humana_Assist": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "ClaimStatus", 
+            "callback": "send_dtmf"
+        },
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "",
+            "callback": "send_dtmf"
+        },
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB" : {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": [] }, 
+            "sending_data": "",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "AETNA": {
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Aetna_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": [["[A-Z]", ""]]}, 
+            "sending_data": "", 
+            "callback": "send_audio_words"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Aetna_Plan": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        },
+        "Aetna_Representative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "GHI": {
+        "GHI_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        },
+        "GHI_Medical_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "GHI_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "WellFleet": {
+        "Wellfleet_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "WELLMED" : {},
+    
+    "FIDELIS CARE": {
+        "Fidelis_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Fidelis_Claim_Denial": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "5", 
+            "callback": "send_dtmf"
+        },
+        "Fidelis_Claim_Clarification": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HIP": {
+        "HIP_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "HIP_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "HIP_Policy_Number": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "SELECT HEALTH": {
+    	"Select_Health_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "EMBLEM HEALTH": {
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "ProfessionalProvider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HEALTH FIRST 1": {
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "LookupType": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": [["[A-Z]", ""]]}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+	"DollarAmount" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "#", 
+            "callback": "send_dtmf"
+        },
+	"Representative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HEALTH FIRST 2": {
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "LookupType": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": [["[A-Z]", ""]]}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+	"DollarAmount" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "#", 
+            "callback": "send_dtmf"
+        },
+	"Representative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "WELLCARE" : {
+        "ProfessionalProvider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "ClaimID" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "DontHave", 
+            "callback": "send_audio_words"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "NATIONAL BENEFIT FUND" : {
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "ClaimStatus", 
+            "callback": "send_audio_words"
+        },
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        } ,
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB" : {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": [] }, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOS" : {
+            "excel": {"key": "DOS", "indices": [[5,7], [8,10], [0,4]], "regex": [] }, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+        
+    "MERITAIN HEALTH" : {
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": [] }, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": [] }, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "MemberCareSpecialist" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "MEDCOST INC" : {
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "6", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        }
+    },
+
+    "BRIGHT HEALTH INSURANCE" : {
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "5", 
+            "callback": "send_dtmf"
+        },
+        "SubmitClaim" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "OXFORD HEALTH PLAN" : {
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "ClaimStatus", 
+            "callback": "send_audio_words"
+        } ,
+        "Medical" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        } ,
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB" : {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOS" : {
+            "excel": {"key": "DOS", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "AFFINITY HEALTH PLAN" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "OSCAR" : {
+        "Member" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "CommercialMember" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "MVP" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+
+        },
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "AARP" : {
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+
+        "DOB" : {
+            "excel": {"key": "DOB", "indices":  [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }, 
+
+        "ZipCode" : {
+            "excel": {"key": "PatientZipCode", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+
+    },
+
+    "MEDICAID NY" : {
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "TRICARE WEST": {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "ToContinue" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB" : {
+            "excel": {"key": "DOB", "indices":  [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "ZipCode" : {
+            "excel": {"key": "PatientZipCode", "indices": [], "regex": []}, 
+            "sending_data": ",3s,0#,0#", 
+            "callback": "senddtmf_with_delay"
+        }
+
+    },
+
+    "TRICARE EAST" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+
+        "NonMilitaryFacility" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "ClaimStatus", 
+            "callback": "send_audio_words"
+        },
+
+        "ClaimsConfirmation" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+
+        "DOB" : {
+            "excel": {"key": "DOB", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1,3s,0#,0#", 
+            "callback": "senddtmf_with_delay"
+        }
+
+    },
+
+    "ALLIED BENEFIT" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "MedicalPlan" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "4", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "ELDER PLAN" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "DENTAQUEST" : {
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [[4,8]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB" : {
+            "excel": {"key": "DOB", "indices": [], "regex": []}, 
+            "sending_data": ",3s,0#", 
+            "callback": "senddtmf_with_delay"
+        }    
+    },
+
+    "AMERIGROUP" : {
+        "NPI" : {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "DOB" : {
+            "excel": {"key": "DOB", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "ClaimID" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "DontHave", 
+            "callback": "send_audio_words"
+        },
+        "DOS" : {
+            "excel": {"key": "DOS", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "STATE FARM" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "CoverageVerification" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "TakeSurvey" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "WELLMED" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Wellmed_Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "PROGRESSIVE" : {
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "ClaimStatus", 
+            "callback": "send_audio_words"
+        },
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "HEALTH CARE PARTNERS" : {
+        "Language" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Member" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "GLOBAL LIFE" : {
+        "CoverageVerification" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        }
+    },
+
+    "QUALCHOICE" : {
+        "Provider" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "4", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum" : {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "HEALTHPLEX" : {
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "4", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Representative" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "METROPLUS": {
+        "Language": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "3",
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "Metro_Claim_Status": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []},
+            "sending_data": "#",
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "Metro_Member": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        }
+    },
+
+    "BANKERS LIFE" : {
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "Tax": {
+            "excel": {"key": "Tax", "indices": [], "regex": []},
+            "sending_data": "",
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "IfNot": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []},
+            "sending_data": "",
+            "callback": "send_dtmf"
+        },
+        "DOS" : {
+            "excel": {"key": "DOS", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "CoverageVerification": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        }
+    },
+
+    "AVMED" : {
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "LookupType": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "Tax": {
+            "excel": {"key": "Tax", "indices": [], "regex": []},
+            "sending_data": ",3s,1",
+            "callback": "senddtmf_with_delay"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []},
+            "sending_data": "",
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []},
+            "sending_data": "",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "UNITED BEHAVIORAL HEALTH": {
+    	"ProfessionalProvider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Tax" : {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "ClaimStatus", 
+            "callback": "send_audio_words"
+        },
+        "Medical": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Bypass": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0#", 
+            "callback": "send_dtmf"
+        },
+        "TakeSurvey" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },        
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "DOS": {
+            "excel": {"key": "DOS", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "ReferenceNumber": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "Representative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        }
+    },
+
+    "PARTNERS HEALTH PLAN" : {
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []},
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "VILLAGECAREMAX": {
+    	"Language": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+    "VNS HEALTH": {
+    	"Language": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "VnsHealthPlan" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "VnsProviderSupport" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "4", 
+            "callback": "send_dtmf"
+        },
+        "Claims" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "MOLINA HEALTHCARE": {
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "CENTERLIGHT HEALTHCARE": {
+        "Language": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3",
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "ClaimsConfirmation": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HAMASPIK CHOICE INC": {
+    	"Member" : {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "HamasClaims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        },
+        "MedicalPlan": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "KAISER PERMANENTE": {
+    	"NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "Kaiser Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "Yes", 
+            "callback": "send_audio_words"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": [["[A-Z]", ""]]}, 
+            "sending_data": "", 
+            "callback": "send_audio_words"
+        },
+        "ZipCode" : {
+            "excel": {"key": "PatientZipCode", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_audio_words"
+        }
+    },
+    
+    "VALLEY CARE IPA": {
+    	"Valley Care IPA Member": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "GOLD COAST HEALTH PLAN": {
+        "Gold Coast Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Representative": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "GLOBAL CARE INC": {
+    },
+    
+    "SEAVIEW IPA": {
+    },
+    
+    "ONCOLOGY PHYSICIANS NETWORK": {
+    	"Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "5",
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "AGEWELL NEW YORK": {
+    	"Language": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "3",
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "EMBLEM HEALTH HIP ACCESS-NY": {
+    	"Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum Emblem NY": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HEALTH PLAN OF NV": {
+    	"Health Plan NV Survey": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "SENIOR WHOLE HEALTH NEW YORK": {
+    	"Language": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "MOLINA HEALTHCARE OF WA": {
+    	"Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "ClaimStatus", 
+            "callback": "send_audio_words"
+        }
+    },
+    
+    "INTERMOUNTAIN HEALTHCARE PARTNERS OF NEVADA": {
+    	"IntermountainClaim": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HEALTHY BLUE MISSOURI": {
+    	"NPI": {
+            "excel": {"key": "NPI", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "PolicyNum": {
+            "excel": {"key": "PolicyNum", "indices": [], "regex": [["[A-Z]", ""]]}, 
+            "sending_data": "", 
+            "callback": "send_audio_words"
+        },
+        "Correct": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        },
+        "DOB": {
+            "excel": {"key": "DOB", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        },
+        "DOS": {
+            "excel": {"key": "DOS", "indices": [[5,7], [8,10], [0,4]], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "HORIZON NJ HEALTH": {
+        "Horizon_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1", 
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "CAREFIRST ADMINISTRATORS": {
+    	"Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "Carefirst_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "1",
+            "callback": "send_dtmf"
+        },
+        "Tax": {
+            "excel": {"key": "Tax", "indices": [], "regex": []}, 
+            "sending_data": "", 
+            "callback": "send_dtmf"
+        }
+    },
+
+    "CARE PLUS HEALTH PLAN": {
+    	"Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        },
+        "Careplus_Claims": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "SIERRA HEALTH AND LIFE": {
+        "Participate_Survey": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "0",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "AMERIHEALTH CARITAS NORTH CAROLINA": {
+        "Ameri_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        }
+    },
+    
+    "AMERIHEALTH ADMINISTRATOR": {
+        "Ameri_Provider": {
+            "excel": {"key": "", "indices": [], "regex": []}, 
+            "sending_data": "2",
+            "callback": "send_dtmf"
+        }
+    }
+}

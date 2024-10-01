@@ -1,0 +1,199 @@
+{
+    "UNITED HEALTH CARE": [
+        "UnitedRepresentative" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "NPI" ,
+        "Tax" ,
+        "Correct" ,
+        "United_Reference"
+    ],
+    
+    "UHC COMMUNITY" : [
+        "UnitedRepresentative" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "NPI" ,
+        "Tax" ,
+        "Correct" ,
+        "United_Reference"
+    ],
+    
+    "UHC STUDENT RESOURCES" : [
+        "UnitedRepresentative" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "NPI" ,
+        "Tax" ,
+        "Correct" ,
+        "United_Reference"
+    ],
+    
+    "CIGNA": [
+        "Cigna_Provider" ,
+        "Tax" ,
+        "Correct" ,
+        "Cigna_Claims" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "Cigna_Medical" ,
+        "DOS" ,
+        "Cigna_Info" ,
+        "Cigna_Multiple_Patients"
+    ],
+    
+    "HORIZON NJ HEALTH": [
+    	"Horizon_Provider" ,
+    	"Horizon_Claims"
+    ],
+    
+    "AMBETTER" : [
+        "Ambetter_English" ,
+        "Ambetter_Provider" ,
+        "Ambetter_Claims" ,
+        "Ambetter_NPI_Ready" ,
+        "NPI" ,
+        "Correct" ,
+        "Ambetter_Claim_Type" ,
+        "Ambetter_Claim_Search" ,
+        "PolicyNum"
+    ],
+    
+    "HUMANA": [
+        "Humana_Assist" ,
+        "Tax" ,
+        "NPI" ,
+        "DOB"
+    ],
+    
+    "AETNA": [
+        "NPI" ,
+        "Aetna_Claims" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "DOB" ,
+        "Aetna_Plan" ,
+        "Aetna_Representative"
+    ],
+    
+    "GHI": [
+        "GHI_Provider" ,
+        "GHI_Medical_Provider" ,
+        "NPI" ,
+        "Correct" ,
+        "GHI_Claims" ,
+        "GHI_Policy_Number"
+    ],
+    
+    "WellFleet": [
+    	"Wellfleet_Claims"
+    ],
+    
+    "WELLMED" : [],
+    
+    "FIDELIS CARE": [
+        "Fidelis_Provider" ,
+        "Fidelis_Claim_Denial" ,
+        "Fidelis_Claim_Clarification"
+    ],
+    
+    "HIP": [
+    	"HIP_Provider",
+    	"NPI" ,
+    	"Correct" ,
+    	"HIP_Claims" ,
+    	"HIP_Policy_Number"
+    ],
+    
+    "SELECT HEALTH": [
+    	"Select_Health_Claims"
+    ],
+    
+    "WELLCARE" : [
+        "Wellcare_English" ,
+        "Wellcare_Option_List" ,
+        "Wellcare_Data_ready" 
+    ],
+
+    "MVP" : [
+        "MVP_Provider" ,
+        "NPI" ,
+        "Correct" ,
+        "Tax" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "MVP_Claims"
+    ],
+    
+    "MOLINA HEALTHCARE": [
+        "Molina_Claims" ,
+        "NPI" ,
+        "Molina_Search" ,
+        "PolicyNum" ,
+        "DOB"
+    ],
+    
+    "HEALTH FIRST 1": [
+    ],
+    
+    "HEALTH FIRST 2": [
+    ],
+
+    "OXFORD HEALTH PLAN" : [
+        "Oxford_Representative" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "NPI" ,
+        "Tax" ,
+        "Correct" ,
+        "Oxford_Reference"
+    ],
+    
+    "AMERIHEALTH CARITAS NORTH CAROLINA": [ 
+        "Ameri_Provider"
+    ],
+    
+    "AMERIHEALTH ADMINISTRATOR": [ 
+        "Ameri_Provider"
+    ],
+
+    "ELDER PLAN" : [
+        "Elder_Provider" ,
+        "Elder_Claims"
+    ],
+
+    "TRICARE EAST" : [
+        "Tricare_Provider" ,
+        "Tricare_Military" ,
+        "Tricare_Claim" ,
+        "Tax"
+    ],
+
+    "TRICARE WEST" : [
+        "Tricare_East_Provider" ,
+        "Tricare_East_Military" ,
+        "Tricare_East_Claim" ,
+        "Tax"
+    ],
+
+    "TRICARE WEST" : [
+        "Tricare_West_Provider" ,
+        "NPI" ,
+        "Tricare_West_Continue" ,
+        "Tricare_West_Claims"
+    ],
+
+    "AARP" : [
+        "Aarp_Claims" ,
+        "PolicyNum" ,
+        "DOB"
+    ],
+    
+    "VNS HEALTH": [
+        "Vns_Language" ,
+        "Vns_Survey" ,
+        "Vns_Service" ,
+        "Vns_Provider_Support" ,
+        "Vns_Claims"
+    ]
+}

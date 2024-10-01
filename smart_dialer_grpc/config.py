@@ -1,0 +1,9 @@
+transcription_model_sample_rate = 16000
+input_stream_sample_rate = 8000
+frame_length = 0.5
+frame_asr_overlap = 1
+frame_asr_offset = 4
+frame_limit =  180 * 8000
+flashtext_list_ivr = "/mnt/nvme1n1/Smart_Dialer/smart_dialer_grpc/flashtext_files/flashtext_list_ivr.txt"
+flashtext_list_operator = "/mnt/nvme1n1/Smart_Dialer/smart_dialer_grpc/flashtext_files/flashtext_list_operator.txt"
+entity_extraction_dir = "/mnt/nvme1n1/Smart_Dialer/smart_dialer_grpc/dial_plan_files/"

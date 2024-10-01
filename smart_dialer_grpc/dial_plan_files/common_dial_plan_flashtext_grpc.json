@@ -1,0 +1,158 @@
+{   
+    "Hold" : ["please hold while you're cal", "Please stay on the line while I transfer you to the next agent", "I'm transfering you now", "please hold while I transfer your cal", "Please hold for the next representative", "Your position in Q is 1", "Please hold for the next available representative", "so that we can continue to provide the highest quality service to our members", "Please wait while we transfer your cal", "God afternon", "please continue to hold", "wait time is about", "wil be answered in the order it was received", "if you would like to provide fedback on your MVP experience", "My name is", "May I please have your", "A representative wil be available shortly"] ,
+    
+    "PolicyNum" : ["but first for what member ID", "say or enter the member ID", "please speak the customer ID", "please say the customer ID", "Please enter the member ID", "please say or enter the patient's Aetna ID", "Please say to Member ID", "Please say the Member ID", "the patient's entire 1-digit member number", "What's the member's ID number", "say the 13-digit claims number", "ARP membership number"] ,
+    
+    "NPI" : ["What's the NPI", "Please say your NPI", "what is your NPI?", "please say or enter your NPI", "please enter the 10 digit NPI number", "Please enter the NPI of the servicing provider", "Please tel me the provider's NPI"] ,
+    
+    "DOB" : ["member's date of birth", "tel me the date of birth", "what's the date of birth for the customer", "and the members' month, day, and year of birth", "Now enter or say the patient's date of birth", "Please say or enter the date of birth", "say the date of birth in the month", "Please enter the patients date of birth"] ,
+    
+    "Tax" : ["what's the tax id number", "please say or enter your nine-digit tax ID", "What's your tax ID?", "organization's nine-digit tax identification number", "the Provider Tax ID number"] ,
+    
+    "DOS" : ["What's the date of service"] ,
+    
+    "Correct" : ["is that right", "just say yes or no", "say yes or pres 1", "Is this corect?", "is that corect?", "please say yes or no"] ,
+    
+    "United_Representative" : ["say I'm a member or pres one", "say i'm a member otherwise in a few words tell me why you're calling today", "or for anything else say representative"] ,
+    
+    "United_Reference" : ["a reference number for this"] ,
+    
+    "Cigna_Provider" : [ "if you are a customer a provider"] ,
+    
+    "Cigna_Claims" : ["You can say things like claim information"] ,
+    
+    "Cigna_Medical" : ["This patient has medical, dental, pharmacy"] ,
+    
+    "Cigna_Info" : ["to hear this information say", "You can say, repeat that", "To hear this information, say"] ,
+    
+    "Cigna_Multiple_Patients" : ["calling about multiple patients"] ,
+    
+    "Horizon_Provider" : ["If you're a provider, pres 2"] ,
+    
+    "Horizon_Claims" : ["Please tel me the reason for your cal"] ,
+    
+    "Ambetter_English" : ["say English or pres one"] ,
+    
+    "Ambetter_Provider" : ["You can say things like member. provider or broker"] ,
+    
+    "Ambetter_Claims" : ["you can say things like claims, eligibility, or authorization"] ,
+    
+    "Ambetter_NPI_Ready" : ["please say I'm ready or pres one when you have it"] ,
+    
+    "Ambetter_Claim_Type" : ["I can tel you about the status of a claim"] ,
+    
+    "Ambetter_Claim_Search" : ["You can search by claim number, date of service"] ,
+    
+    "Humana_Assist" : ["humanas medical provider line how may i help"] ,
+    
+    "Aetna_Claims" : ["Say claims or pres one coverage", "Say, claims or pres 1, coverage and benefits"] ,
+    
+    "Aetna_Plan" : ["What type of plan are you caling about"] ,
+    
+    "Aetna_Representative" : ["try another patient or pres 1. Main Menu. or pres 2 or Representative 0", "be represented pres 0"] ,
+    
+    "GHI_Provider" : ["For Mental health and substance abuse program and services Press 1"] ,
+    
+    "GHI_Medical_Provider" : ["If you are in the interested in becoming a participating provider Pres 1", "If you are a medical provider press 2"] ,
+    
+    "GHI_Claims" : ["for eligibility and benefits or for claims"] ,
+    
+    "GHI_Policy_Number" : ["For the leter K, please enter number 5"] ,
+    
+    "Wellfleet_Claims" : ["If you know your party's extension, You may dial it now"] ,
+    
+    "Fidelis_Provider" : ["If you are a new member and ned to make your initial"] ,
+     
+    "Fidelis_Claim_Denial" : ["member eligibility and plan benefits, pres 1"] ,
+    
+    "Fidelis_Claim_Clarification" : ["For clarification on the claim denial, pres 0"] ,
+    
+    "HIP_Provider" : ["if you are interested in becoming a participating provider Pres 1", "a participating provider, Pres 1"] ,
+    
+    "HIP_Claims" : ["for claim status, pres 1", "or for claim status, pres"] ,
+    
+    "HIP_Policy_Number" : ["For the leter K, please enter number 5"] ,
+    
+    "Select_Health_Claims" : ["benefits or the payment of claims, pres 1"] ,
+    
+    "Wellcare_English" : ["say English or pres one", "say English or pres 1"] ,
+    
+    "Wellcare_Option_List" : ["You can say things like member or provider", "please pres the pound key or say pound"],
+    
+    "Wellcare_Data_ready" : ["please say I'm ready or pres one when you have it", "I'm ready or pres one"] ,
+    
+    "MVP_Provider" : ["If you are a provider, pres 1", "A member Pres 2"] ,
+    
+    "MVP_Claims" : ["To check a patient's eligibility, pres 1", "To return to the main menu"] ,
+    
+    "Molina_Claims" : ["You can say authorization status"] ,
+    
+    "Molina_Search" : ["by claim number for date of service"] ,
+    
+    "Select_Health_Provider" : ["If you are a provider, pres or say one"] ,
+    
+    "Select_Health_Claims" : ["eligibility, pres or say"] ,
+    
+    "Select_Health_Look_Up" : ["How would you like to lok up the claim"] ,
+    
+    "Oxford_Representative" : ["say I'm a member or pres one", "say i'm a member otherwise in a few words tell me why you're calling today", "or for anything else say representative"] ,
+    
+    "Oxford_Reference" : ["a reference number for this"] ,
+    
+    "Ameri_Provider" : ["if you are a member say member", "if you are a provider or caling"] ,
+    
+    "Elder_Provider" : ["For pharmacy questions, please pres 1", "If you are a provider, please pres 2"] ,
+    
+    "Elder_Claims" : ["For claim inquiries, pres one", "For claim inquiries, pres 1"] ,
+    
+    "Tricare_East_Provider" : ["say beneficiary. Hospitals, doctors", "or medical facilities, say provider"] ,
+    
+    "Tricare_East_Military" : ["caling from a military treatment facility"] ,
+    
+    "Tricare_East_Claim" : ["How can I help you?"] ,
+    
+    "Tricare_West_Provider" : ["provider, pres or say one"] ,
+    
+    "Tricare_West_Continue": ["would like to hear it again", "To continue, pres or say 2"],
+    
+    "Tricare_West_Claims": ["For claims, pres or say one", "For claim status"] ,
+    
+    "Aarp_Claims" : ["You can say Eligibility or coverage"] ,
+    
+    "Vns_Language" : ["For English, please pres 1"] ,
+    
+    "Vns_Survey" : ["survey at the end of this cal"] ,
+    
+    "Vns_Service" : ["If you calling about health plan services press 2"] ,
+    
+    "Vns_Provider_Support" : ["For Medicare, pres 1", "For provider support press 4"] ,
+    
+    "Vns_Claims" : ["for claims, inquiries, and provider information"] ,
+    
+    
+    
+    
+    
+    
+    
+    
+    "PartnersHealthPlanProvider" : ["if you are a member or an authorized representative calling on behalf of a member or would like"] ,
+    
+    "HamasClaims" : ["to check the status of a claim press two"] ,
+    
+    "Kaiser Correct" : ["are you calling from member from the southern California region"] ,
+    
+    "Gold Coast Provider" : ["if you are a member press one provider press two if you are experiencing issues wiith transportation"] ,
+    
+    "Valley Care IPA Member" : ["for member services please press one"] ,
+    
+    "PolicyNum Emblem NY" : ["please enter the member identification number", "please enter the member identtification number"] ,
+    
+    "Health Plan NV Survey" : ["if you would like to participate please Press 1"] ,
+    
+    "IntermountainClaim" : ["status of a claim press one"] ,
+    
+    "Carefirst_Claims" : ["calling for the status of a claim then please press one"] ,
+    
+    "Careplus_Claims" : ["for the status of claims press two", "or to check the status of claims please press two"]
+}

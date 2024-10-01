@@ -1,0 +1,143 @@
+{   "Language" : ["continue in english", "for english press one", "for engglish"] ,
+    
+    "Assist" : ["how may i assist you", "how may i help", "humanas medical provider line how may i help"] ,
+    
+    "Provider" : [ "if you are a customer", "if you are a provider", "for provider service", "atomic provider","tansitation provider", "if you are health care provider", "I am a provider", "Providers press three", "you can say things like member provider"] ,
+                   
+    "Member" : ["if you are a member",  "emblem health city gold member", "if you are a health care provider", "provider press two if you would d like to"] ,
+    
+    "Metro_Member" : ["for metro plus old"] ,
+    
+    "NotMember" : ["if you are not a member"] ,
+    
+    "Claims" : ["for claim status", "or claim status", "to verify eligibility", "for claim information press", "would you like claim","for speifics related to claim denial", "to check claim status","for claim inquiry", "for questions about claim press", "for assistance in claim inquiry", "for claims and other related inquiries", "to hear the status of the claim", "for claims billing", "claim status or press two", "claims or press 3", "say claims coverage and benefits", "please say claim status", "for claim inquiries and provider information updates please press 1", "press two if you are calling in regards to claims or payments"] ,
+    
+    "Metro_Claim_Status": ["patient eligibility claims"] ,
+    
+    "ClaimsConfirmation" : ["to confirm you are calling for claims", "press 1 if you are calling regarding claims"] ,
+    
+    "CoverageVerification" : ["for medicare supplement verification", "for medical supplement"] ,
+    
+    "ClaimDenial" : ["for sspecifics related to a claimim denial", "for specifics related to a claimm denial", "for specifics related to a claim denial", "for sspecifics related to a claim denial"] ,
+    
+    "ClaimID" : ["do you know the claim id", "say or enter the claim number", "what's the claim number"] ,
+    
+    "MedicalPlan" : ["for atta medical plans press", "for medical claims press one"] ,
+    
+    "ParticipatingProvider" : ["participating provider"] ,
+    
+    "ProfessionalProvider" : ["professional provider", "profestional provider", "say professional", "professional", "profestional"] ,
+    
+    "Medical" : ["medical pharmacy and mental health", "medicaid", "is this for medical or behavioral health"] ,
+    
+    "LookupType" : ["how would you like to search", "how would you like to look up", "how would you like e to look up", "you can say lookup"] ,
+    
+    "HealthFirst2LookupType" : ["for all authorizations press three", "for provider portal support press or say four", "how would you like to look up"] ,
+    
+    "Bypass" : ["sorry i still didn't"] ,
+    
+    "EssentialPlan" : ["for the essential plan"] ,
+    
+    "NPI" : ["npi", "n p i", "np i", "what's the npi", "enter your n p i", "mpi", "national provider identity"] ,
+    
+    "Tax" : ["enter the nine digit tax id", "what is the tax id number", "what's the tax id number", "enter tax identification", "enter your tax id", "please enter or say the ttax id", "please enter or say the tax id", "what's your tax id", "say or enter your nine digit tax id", "the providers tax id number"] ,
+    
+    "PolicyNum" : ["enter the social security number", "enter the member identification nnumber", "enter the member id", "enter the member's id number", "what member id", "for what member id", "patient's aetna id", "enter the patient's id", "enter numeric portion", "enter the numeric portion", "numeric portion of the member id", "numeric part of member id", "enter the plan participant", "enter umeric porsion of member id", "aarp membership number", "members id number", "members id n number", "1199 member id", "1199 members id", "please enter the claim number followed by the pound sign", "please say or enter the member's id nuumber", "please say or enter the member's id number", "please say or enter the nine character member id", "please say the member id including", "please enter the nine digit vill care member id number", "providers plan id if you need a moment to locate it just say one moment"] ,
+    
+    "Practice" : ["you are calling on behalf of"] ,
+    
+    "DontHave" : ["say i don't have it"] ,
+    
+    "IfNot" : ["if not"] ,
+    
+    "ZipCode" : ["zip code", "members zipcode one digit"] ,
+    
+    "ToContinue" : ["to continue"] ,
+    
+    "SubmitClaim" : ["submitting a claim"] ,
+        
+    "StayOnLine" : ["stay on the line", "remain on the line"] ,
+    
+    "EnterLetter" : ["entered a letter"] ,
+    
+    "StartLetter" : ["id start with the letter"] ,
+    
+    "DOB" : ["patient's date of birth", "what's date of birth", "Whats the date of birth", "What's the date of birth", "two digit month and two digit year", "two digit month and two digitt year", "And members month date and year of birth", "member's date of birth", "please enter the date of birth of the member you're calling about", "please say or enter your date of birth in a month day", "please enter the date"," tell me the date of birth like this april"] ,
+    
+    "DateOfBirth" : ["two digit date of birth","date is invalid", "is in valid please"] ,
+    
+    "MonthOfBirth" : ["two digit month","month of birth"] ,
+    
+    "YearOfBirth" : [ "two digit year", "ear of birth", "year of birth", "four digit year"] ,
+    
+    "DOS" : ["date of service", "what is the date of service", "date of servicee"] ,
+    
+    "Correct" : [ "is this correct", "is that right", "correct say yes", "correct", "was that number correct", "please say yes"] ,
+    "DollarAmount" : ["what was the total dollar amount","what was the total dlr amount"] ,
+    
+    "ReferenceNumber" : ["you want a reference number", "the reference number for all the information"] ,
+    
+    "MultiplePatients" : ["calling about multiple patients"] ,
+    
+    "NonMilitaryFacility" : ["all others"] ,
+    
+    "OtherPatient" : ["are there any other patient"] ,
+    
+    "OtherStates" : ["for all other states"] ,
+    
+    "Idconfirm" : ["Is member's name"] ,
+    
+    "IdconfirmHumana" : ["would you like a fax"] ,
+    
+    "FidelisLocation" : ["the state of new jersey"] ,
+    
+    "Fidelis_Claim_Denial" : ["member eligibility and plan benefits press one"] ,
+    
+    "ClaimDenialClarification" : ["for clarification on a claim denil press zero"] ,
+    
+    "MemberCareSpecialist" : ["with a member care specialist", "medical denental or disabolty claim", "medical dental or disabolty claims", "medical dentolor disabultty claim", "medical dental or disabolty claim", "medical deental or diisabolty claims"] ,
+    
+    "MailingAddress" : ["would you like our mailing address"] ,
+    
+    "ClaimFound" : ["claim on that date", "claim on that ddate", "claim on that datte", "claim on that ddatte", "i found your claim ok the claim is"] ,
+    
+    "VnsHealthPlan" : ["If you calling about health plan services press 2"] ,
+    
+    "VnsProviderSupport" : ["For provider support press 4"] ,
+    
+    "PartnersHealthPlanProvider" : ["if you are a member or an authorized representative calling on behalf of a member or would like"] ,
+    
+    "HamasClaims" : ["to check the status of a claim press two"] ,
+    
+    "Kaiser Correct" : ["are you calling from member from the southern California region"] ,
+    
+    "Gold Coast Provider" : ["if you are a member press one provider press two if you are experiencing issues wiith transportation"] ,
+    
+    "Valley Care IPA Member" : ["for member services please press one"] ,
+    
+    "PolicyNum Emblem NY" : ["please enter the member identification number", "please enter the member identtification number"] ,
+    
+    "Health Plan NV Survey" : ["if you would like to participate please Press 1"] ,
+    
+    "IntermountainClaim" : ["status of a claim press one"] ,
+    
+    "Horizon_Claims" : ["status of a claim press one"] ,
+    
+    "UnitedRepresentative" : ["say i'm a member otherwise ind a few words tell me why you're calling today", "you can say benefits and eligibility or press one claims", "which of the following can i help you with benefits", "or for anything else say representative", "you with the right advocaate i will need", "for english just remain on the line"] ,
+    
+    "Carefirst_Claims" : ["calling for the status of a claim then please press one"] ,
+    
+    "Careplus_Claims" : ["for the status of claims press two", "or to check the status of claims please press two"] ,
+    
+    "Wellmed_Claims" : ["you're calling about claims press one"] ,
+    
+    "Fidelis_Provider" : ["if you are a new member and need to make your initial"] ,
+    
+    "Participate_Survey" : ["before i transfer you please respond if you would be willing to participate"] ,
+    
+    "Ameri_Provider" : ["if you are a members"] ,
+    
+    "Representative" : ["or advocate","to an advocate", "for case management", "your call is transferred", "i'm transferring you now", "to hear this information say", "clarification on a claim denial", "like to speak with representative", "to hear the claim information", "to speak to a customer service representative", "would you like to transfer to customer seervice", "would you like to transfer to customer service", "you can also say representative zero", "to speak with a repressentative just press zero", "speak with a customer service representative"] ,
+    
+    "Hold" : ["please hold your call is being", "hold your call is transferred", "please continue to hold", "hold while i transfer you", "hold while your call is", "wait while we connect you with a care", "your call will be answered in the order", "your call is being transferred", "wait while your call is transferred", "hold for the next available representative", "let me transfer you to someone", "i try to connect you with someone", "one of our representative will be with you shortly", "i'm transferring you now", "please use our online portal at sedalla care dot org", "please use our online portal at fodals care dot org", "please use our online portal at fidelis care dot org", "let's connect you to an advocate", "someone will assist you", "line for the next available advocate", "your call is important to us please remain on the line and your call will be answered by the next available agent if you would like the system to", "of new york good line advocate", "please hold for representative", "assurance your direct feedback is extremely important", "you may wait for the next available representative", "i'm sorry i'm having trouble your call", "ight helt kay one moment please and", "thank you for holding", "please hold while your call is being transfered", "my name is", "end of the call if you would lke to participate please press one otherwise press zero", "your phsition inquis one", "your physition inquis one", "if you are fiinished just press nine and if you would like to speak with a representative just press zero", "there is one callorhead  you please wait why we direct your ccall to the next available specialist", "please hold while we connect your call to the first available intermalten health care", "let me fign somemo to help you one moment please", "may i please have your name", "please hold while i connect someone who", "call is bee transfere", "we are currenty experiencing higher normal call", "please holdd while", "let's transfer you to a representative for asssistance"]
+}

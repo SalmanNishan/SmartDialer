@@ -1,0 +1,498 @@
+{
+    "UNITED HEALTH CARE": [
+        "UnitedRepresentative" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "NPI" ,
+        "Tax" ,
+        "Correct" ,
+        "United_Reference"
+    ],
+    
+    "UHC COMMUNITY" : [
+        "UnitedRepresentative" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "NPI" ,
+        "Tax" ,
+        "Correct" ,
+        "United_Reference"
+    ],
+    
+    "UHC STUDENT RESOURCES" : [
+        "UnitedRepresentative" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "NPI" ,
+        "Tax" ,
+        "Correct" ,
+        "United_Reference"
+    ],
+    
+    "CIGNA": [
+        "Cigna_Provider" ,
+        "Tax" ,
+        "Correct" ,
+        "Cigna_Claims" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "Cigna_Medical" ,
+        "DOS" ,
+        "Cigna_Info" ,
+        "Cigna_Multiple_Patients"
+    ],
+    
+    "HORIZON NJ HEALTH": [
+    	"Horizon_Provider" ,
+    	"Horizon_Claims"
+    ],
+    
+    "AMBETTER" : [
+        "Ambetter_English" ,
+        "Ambetter_Provider" ,
+        "Ambetter_Claims" ,
+        "Ambetter_NPI_Ready" ,
+        "NPI" ,
+        "Correct" ,
+        "Ambetter_Claim_Type" ,
+        "Ambetter_Claim_Search" ,
+        "PolicyNum"
+    ],
+    
+    "HUMANA": [
+        "Humana_Assist" ,
+        "Tax" ,
+        "NPI" ,
+        "DOB"
+    ],
+    
+    "AETNA": [
+        "NPI" ,
+        "Aetna_Claims" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "DOB" ,
+        "Aetna_Plan" ,
+        "Aetna_Representative"
+    ],
+    
+    "GHI": [
+        "GHI_Provider" ,
+        "GHI_Medical_Provider" ,
+        "NPI" ,
+        "Correct" ,
+        "GHI_Claims" ,
+        "GHI_Policy_Number"
+    ],
+    
+    "WellFleet": [
+    	"Wellfleet_Claims"
+    ],
+    
+    "WELLMED" : [],
+    
+    "FIDELIS CARE": [
+        "Fidelis_Provider" ,
+        "Fidelis_Claim_Denial" ,
+        "Fidelis_Claim_Clarification"
+    ],
+    
+    "HIP": [
+    	"HIP_Provider",
+    	"NPI" ,
+    	"Correct" ,
+    	"HIP_Claims" ,
+    	"HIP_Policy_Number"
+    ],
+    
+    "SELECT HEALTH": [
+    	"Select_Health_Claims"
+    ],
+    
+    "EMBLEM HEALTH": [
+        "Provider" ,
+        "Correct" ,
+        "ProfessionalProvider"
+    ],
+    
+    "HEALTH FIRST 1": [
+        "Provider" ,
+        "Claims" ,
+        "LookupType"   ,
+        "PolicyNum" , 
+        "DollarAmount" , 
+        "Representative" 
+    ],
+    
+    "HEALTH FIRST 2": [
+        "Provider" ,
+        "Claims" ,
+        "LookupType"   ,
+        "PolicyNum" , 
+        "Correct" ,
+        "DollarAmount" , 
+        "Representative" 
+    ],
+
+    "WELLCARE" : [
+        "ProfessionalProvider" ,
+        "Claims" ,
+        "NPI" ,
+        "ClaimID" ,
+        "Correct" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "Representative" 
+    ],
+
+    "NATIONAL BENEFIT FUND" : [
+        "Claims" ,
+        "Tax" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "Correct" ,
+        "DOS" ,
+        "Representative" 
+    ],
+
+    "MERITAIN HEALTH" : [
+        "Provider" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "MemberCareSpecialist" 
+    ],
+
+    "MEDCOST INC" : [
+        "Representative" ,
+        "Correct"
+    ],
+
+    "BRIGHT HEALTH INSURANCE" : [
+        "Claims" ,
+        "Correct" ,
+        "SubmitClaim" ,
+        "Representative"
+    ],
+
+    "OXFORD HEALTH PLAN" : [
+        "Claims" ,
+        "Medical" , 
+        "PolicyNum" ,
+        "DOB" ,
+        "Correct" ,
+        "NPI" ,
+        "Tax" ,
+        "DOS" ,
+        "Representative" 
+    ],
+    
+    "AFFINITY HEALTH PLAN" : [
+        "Provider" ,
+        "Correct" ,
+        "Representative" 
+    ],
+
+    "OSCAR" : [
+        "Member" ,
+        "CommercialMember" ,
+        "Claims" ,
+        "Correct" ,
+        "Tax" ,
+        "NPI"
+    ],
+
+    "MVP" : [
+        "Provider" ,
+        "NPI" ,
+        "Correct" ,
+        "Tax" ,
+        "Correct" ,
+        "PolicyNum" ,
+        "Claims" ,
+        "Claims"
+    ],
+
+    "AARP" : [
+        "Claims" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "Correct" ,
+        "ZipCode" ,
+        "Representative"
+    ],
+
+    "MEDICAID NY" : [
+        "Claims" ,
+        "Correct" ,
+        "Provider"
+    ],
+
+    "TRICARE WEST" : [
+        "Provider" ,
+        "NPI" ,
+        "ToContinue" ,
+        "Claims" ,
+        "Correct" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "ZipCode"
+    ],
+
+    "TRICARE EAST" : [
+        "Provider" ,
+        "NonMilitaryFacility" ,
+        "Claims" ,
+        "ClaimsConfirmation" ,
+        "Tax" ,
+        "Correct" ,
+        "PolicyNum" ,
+        "DOB" ,
+        "Correct"
+    ],
+
+    "ALLIED BENEFIT" : [
+        "Provider" ,
+        "Correct" ,
+        "MedicalPlan"
+    ],
+
+    "ELDER PLAN" : [
+        "Provider" ,
+        "Correct" ,
+        "Claims"
+    ],
+
+    "DENTAQUEST" : [
+        "NPI" ,
+        "Correct" ,
+        "Tax" ,
+        "Claims" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "DOB"
+    ],
+
+    "AMERIGROUP" : [
+        "NPI" ,
+        "Claims" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "DOB" ,
+        "ClaimID" ,
+        "DOS"
+    ],
+
+    "STATE FARM" : [
+        "Provider" ,
+        "Correct" ,
+        "CoverageVerification" ,
+        "TakeSurvey"
+    ],
+
+    "PROGRESSIVE" : [
+        "Claims" ,
+        "PolicyNum" ,
+        "Correct"
+    ],
+    
+    "HEALTH CARE PARTNERS" : [
+        "Language" ,
+        "Correct" ,
+        "Member"
+    ],
+
+    "GLOBAL LIFE" : [
+        "CoverageVerification" ,
+        "Correct"
+    ],
+
+    "QUALCHOICE" : [
+        "Provider" ,
+        "Claims" ,
+        "PolicyNum" ,
+        "Correct"
+    ],
+
+    "HEALTHPLEX" : [
+        "Claims" ,
+        "Correct" ,
+        "Representative"
+    ],
+
+    "METROPLUS" : [
+        "Language" ,
+        "Provider" ,
+        "Claims" ,
+        "Metro_Claim_Status" ,
+        "NPI" ,
+        "Correct" ,
+        "Metro_Member"
+    ],
+
+    "BANKERS LIFE" : [
+        "Provider" ,
+        "Claims" ,
+        "Tax" ,
+        "Correct" ,
+        "IfNot" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "Claims" ,
+        "DOS" ,
+        "CoverageVerification"
+    ],
+
+    "USAA" : [
+        "NotMember" ,
+        "Claims" ,
+        "Correct" ,
+        "Medical" ,
+        "MailingAddress"
+    ],
+
+    "AVMED" : [
+        "Claims" ,
+        "Correct" ,
+        "LookupType" ,
+        "Tax" ,
+        "LookupType" ,
+        "PolicyNum" ,
+        "Correct" ,
+        "DOB" ,
+        "Correct" ,
+        "DOB" ,
+        "Correct"
+    ],
+
+    "PARTNERS HEALTH PLAN" : [
+        "Provider"
+    ],
+    
+    "VILLAGECAREMAX": [
+        "Language" ,
+        "Provider" ,
+        "PolicyNum"
+    ],
+    
+    "VNS HEALTH": [
+        "Language" ,
+        "VnsHealthPlan" ,
+        "VnsProviderSupport" ,
+        "Claims"
+    ],
+    
+    "MOLINA HEALTHCARE": [
+        "Claims" ,
+        "NPI"
+    ],
+    
+    "CENTERLIGHT HEALTHCARE": [
+    	"Language" ,
+        "Provider" ,
+        "Claims" ,
+        "ClaimsConfirmation"
+    ],
+    
+    "HAMASPIK CHOICE INC": [
+    	"Member" ,
+        "HamasClaims" ,
+        "MedicalPlan"
+    ],
+    
+    "KAISER PERMANENTE": [
+    	"NPI" ,
+        "Correct" ,
+        "Kaiser Correct" ,
+        "PolicyNum" ,
+        "ZipCode"
+    ],
+    
+    "VALLEY CARE IPA": [
+    	"Valley Care IPA Member"
+    ],
+    
+    "GOLD COAST HEALTH PLAN": [
+        "Gold Coast Provider" ,
+        "NPI" ,
+        "Representative"
+    ],
+    
+    "GLOBAL CARE INC": [
+    ],
+    
+    "SEAVIEW IPA": [
+    ],
+    
+    "ONCOLOGY PHYSICIANS NETWORK": [
+    	"Provider" ,
+        "Claims"
+    ],
+    
+    "AGEWELL NEW YORK": [
+    	"Language" ,
+        "Provider" ,
+        "Claims"
+    ],
+    
+    "EMBLEM HEALTH HIP ACCESS-NY":[
+    	"Provider" ,
+    	"NPI" ,
+        "Correct" ,
+    	"Claims" ,
+    	"PolicyNum Emblem NY" ,
+    	"PolicyNum" ,
+    	"DOB"
+    ],
+    
+    "HEALTH PLAN OF NV":[
+    	"Health Plan NV Survey"
+    ],
+    
+    "SENIOR WHOLE HEALTH NEW YORK": [
+    	"Language"
+    ],
+    
+    "MOLINA HEALTHCARE OF WA": [
+    	"Provider" ,
+    	"Claims"
+    ],
+    
+    "INTERMOUNTAIN HEALTHCARE PARTNERS OF NEVADA": [
+    	"IntermountainClaim"
+    ],
+    
+    "HEALTHY BLUE MISSOURI": [
+    	"NPI" ,
+    	"PolicyNum" ,
+    	"Correct" ,
+    	"DOB" ,
+    	"DOS"
+    ],
+    
+    "HORIZON NJ HEALTH": [
+    	"Horizon_Claims"
+    ],
+    
+    "CAREFIRST ADMINISTRATORS": [
+    	"Provider" ,
+    	"Carefirst_Claims" ,
+    	"Tax"
+    ],
+    
+    "CARE PLUS HEALTH PLAN": [
+    	"Provider" ,
+    	"Careplus_Claims"
+    ],
+    
+    "SIERRA HEALTH AND LIFE": [
+    	"Participate_Survey"
+    ],
+    
+    "AMERIHEALTH CARITAS NORTH CAROLINA": [ 
+        "Ameri_Provider"
+    ],
+    
+    "AMERIHEALTH ADMINISTRATOR": [ 
+        "Ameri_Provider"
+    ]
+}
